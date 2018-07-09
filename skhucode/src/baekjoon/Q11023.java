@@ -4,11 +4,11 @@
  * Title: 더하기 3
  * Problem: 수 N개가 주어졌을 때, N개의 합을 구하는 프로그램을 작성하시오.
  */
-package q11023;
+package baekjoon;
 
 import java.io.*;
 
-public class Main {
+public class Q11023 {
     public static void main(String args[]) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         String[] numbers = bufferedReader.readLine().split(" ");
