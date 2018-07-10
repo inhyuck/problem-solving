@@ -12,7 +12,7 @@
  * front: 큐의 가장 앞에 있는 정수를 출력한다. 만약 큐에 들어있는 정수가 없는 경우에는 -1을 출력한다.
  * back: 큐의 가장 뒤에 있는 정수를 출력한다. 만약 큐에 들어있는 정수가 없는 경우에는 -1을 출력한다.
  */
-package baekjoon;
+package io;
 
 import java.io.BufferedReader;
 import java.io.IOException;
