@@ -8,7 +8,7 @@
  * 배열에서 가장 작은 값을 출력하고, 그 값을 배열에서 제거한다.
  * 프로그램은 처음에 비어있는 배열에서 시작하게 된다.
  */
-package io;
+package collections;
 
 import java.io.BufferedReader;
 import java.io.IOException;

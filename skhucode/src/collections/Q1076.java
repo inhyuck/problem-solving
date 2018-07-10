@@ -17,7 +17,7 @@
  * grey	    8	100000000
  * white	9	1000000000
  */
-package io;
+package collections;
 
 import java.io.BufferedReader;
 import java.io.IOException;
