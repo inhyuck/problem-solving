@@ -27,9 +27,7 @@ import java.util.Map;
 
 public class Q1076 {
     public static void main(String[] args) throws IOException {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        /*Map<String, Integer> map = new HashMap<>();
-
+        Map<String, Integer> map = new HashMap<>();
         map.put("black", 0);
         map.put("brown", 1);
         map.put("red", 2);
@@ -41,34 +39,14 @@ public class Q1076 {
         map.put("grey", 8);
         map.put("white", 9);
 
-        String one = map.get(reader.readLine()).toString();
-        String two = map.get(reader.readLine()).toString();
-        int three = map.get(reader.readLine());
-        String result = one + two;
-        while (three-- > 0) {
-            result += "0";
-        }
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        int [] numbers = new int[3];
+        numbers[0] = map.get(reader.readLine());
+        numbers[1] = map.get(reader.readLine());
+        numbers[2] = map.get(reader.readLine());
+
+        long result = (long)((numbers[0] * 10 + numbers[1]) * Math.pow(10, numbers[2]));
+
         System.out.println(result);
-        */
-
-        Map<String, Integer[]> map = new HashMap<>();
-
-        map.put("black", new Integer[] {0, 1});
-        map.put("brown", new Integer[] {1, 10});
-        map.put("red", new Integer[] {2, 100});
-        map.put("orange", new Integer[] {3, 1000});
-        map.put("yellow", new Integer[] {4, 10000});
-        map.put("green", new Integer[] {5, 100000});
-        map.put("blue", new Integer[] {6, 1000000});
-        map.put("violet", new Integer[] {7, 10000000});
-        map.put("grey", new Integer[] {8, 100000000});
-        map.put("white", new Integer[] {9, 1000000000});
-
-        String one = map.get(reader.readLine())[0].toString();
-        String two = map.get(reader.readLine())[0].toString();
-        int result = Integer.valueOf(one + two);
-        int i = Integer.valueOf(map.get(reader.readLine())[1].toString());
-        System.out.println(result * i);
-
     }
 }
