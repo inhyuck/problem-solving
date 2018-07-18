@@ -32,5 +32,13 @@
   - [Q1927 - 최소 힙 | PriorityQueue](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/collections/Q1927.java)
   - [Q11279 - 최대 힙 | PriorityQueue 역순](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/collections/Q11279.java)
 - **Sort**
+  - [Q2750 - 수 정렬하기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/sort/Q2750.java)
+  - [Q11650 - 좌표 정렬하기 | Comparable](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/sort/Q11650.java)
+  - [Q11651 - 좌표 정렬하기2 | Comparator](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/sort/Q11651.java)
 - **BigInteger**
+  - [Q10826 - 피보나치 수 4](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/biginteger/Q10826.java)
+  - [Q10757 - 큰 수 A+B](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/biginteger/Q10757.java)
+  - [Q10827 - a^b | BigDecimal](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/biginteger/Q10827.java)
+
+
 
