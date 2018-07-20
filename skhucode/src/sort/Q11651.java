@@ -24,16 +24,9 @@ public class Q11651 {
         Collections.sort(list, new Comparator<Point>() {
             @Override
             public int compare(Point p1, Point p2) {
-                if(p1.y < p2.y)
-                    return -1;
-                if(p1.y == p2.y) {
-                    if(p1.x < p2.x)
-                        return -1;
-                    if(p1.x == p2.x)
-                        return 0;
-                    return 1;
-                }
-                return 1;
+                int r = p1.y - p2.y;
+                if (r != 0) return r;
+                return p1.x - p2.x;
             }
         });
 
