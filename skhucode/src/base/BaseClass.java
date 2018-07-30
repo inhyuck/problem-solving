@@ -1,8 +1,10 @@
 /**
- * Date: 2018. 07. 19.
- * URL: https://www.acmicpc.net/problem/?
+ * Date: 2018. 07. 30.
+ * Author: inhyuck | https://github.com/inhyuck
+ * Solution URL: https://github.com/skhucode/skhucode-inhyuck
  * Title:
  * Problem:
+ * URL: https://www.acmicpc.net/problem/?
  */
 package base;
 
