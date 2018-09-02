@@ -111,4 +111,7 @@
   - [Q2178 - 미로탐색 | BFS 최단거리](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/graph/Q2178.java)
   - [Q7576 - 토마토 | BFS 여러곳에서 동시에 확장](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/graph/Q7576.java)
   - [Q2146 - 다리 만들기 | DFS, BFS 혼용, 끝판왕!](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/graph/Q2146.java)
-            
+       
+#### [**Tree**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/tree)
+  - [Q1991 - 트리 순회 | 일반적인 pre,in,post order](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q1991.java)
+  - [Q11725 - 트리의 부모 찾기 | BFS 탐색 이용](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q11725.java)       
