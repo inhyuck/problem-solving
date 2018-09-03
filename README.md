@@ -114,4 +114,7 @@
        
 #### [**Tree**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/tree)
   - [Q1991 - 트리 순회 | 일반적인 pre,in,post order](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q1991.java)
-  - [Q11725 - 트리의 부모 찾기 | BFS 탐색 이용](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q11725.java)       
+  - [Q11725 - 트리의 부모 찾기 | BFS 탐색 이용](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q11725.java)  
+  - [Q1167 - 트리의 지름](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q1167.java)  
+  - [Q1967 - 트리의 지름](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q1967.java)  
+           
