@@ -4,7 +4,7 @@
  * Solution URL: https://github.com/skhucode/skhucode-inhyuck
  * Title: 다리 만들기
  * Problem: 지도가 주어질 때, 가장 짧은 다리 하나를 놓아 두 대륙을 연결하는 방법을 찾으시오.
- * URL: https://www.acmicpc.net/problem/
+ * URL: https://www.acmicpc.net/problem/2146
  */
 package graph;
 
