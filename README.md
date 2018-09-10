@@ -40,10 +40,10 @@
   - [Q2439 - 별찍기 - 2](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2439.java)
   - [Q2440 - 별찍기 - 3](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2440.java)
   - [Q2441 - 별찍기 - 4](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2441.java)
-  - [Q2442 - 별찍기 - 5]
-  - [Q2444 - 별찍기 - 7]
-  - [Q2445 - 별찍기 - 8]
-  - [Q2446 - 별찍기 - 9]
+  - [Q2442 - 별찍기 - 5](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2442.java)
+  - [Q2444 - 별찍기 - 7](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2444.java)
+  - [Q2445 - 별찍기 - 8](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2445.java)
+  - [Q2446 - 별찍기 - 9](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2446.java)
   - [Q2522 - 별찍기 - 12]
   - [Q10991 - 별찍기 - 16]
   - [Q10992 - 별찍기 - 17]
