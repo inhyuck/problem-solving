@@ -19,6 +19,7 @@
   - [Q11023 - 더하기 3](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q11023.java)
   - [Q10822 - 더하기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q10822.java)
   - [Q2741 - N 찍기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2741.java)
+  - [Q2742 - 기찍 N](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2742.java)
   - [Q2558 - A+B - 2](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2558.java)
   - [Q10950 - A+B - 3](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q10950.java)
   - [Q10951 - A+B - 4](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q10951.java)
@@ -30,12 +31,10 @@
   - [Q11719 - 그대로 출력하기 2](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q11719.java)
   - [Q11720 - 숫자의 합](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q11720.java)
   - [Q11721 - 열 개씩 끊어 출력하기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q11721.java)
-  - [Q2741 - N찍기]
-  - [Q2742 - 기찍 N]
-  - [Q2739 - 구구단]
-  - [Q1924 - 2007년]
-  - [Q8393 - Sum]
-  - [Q10818 - 최소, 최대]
+  - [Q2739 - 구구단](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/2739.java)
+  - [Q1924 - 2007년](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q1924.java)
+  - [Q8393 - Sum](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q8393.java)
+  - [Q10818 - 최소, 최대](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q10818.java)
   - [Q2438 - 별찍기 - 1](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2438.java)
   - [Q2439 - 별찍기 - 2](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2439.java)
   - [Q2440 - 별찍기 - 3](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2440.java)
@@ -44,9 +43,9 @@
   - [Q2444 - 별찍기 - 7](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2444.java)
   - [Q2445 - 별찍기 - 8](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2445.java)
   - [Q2446 - 별찍기 - 9](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2446.java)
-  - [Q2522 - 별찍기 - 12]
-  - [Q10991 - 별찍기 - 16]
-  - [Q10992 - 별찍기 - 17]
+  - [Q2522 - 별찍기 - 12](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2522.java)
+  - [Q10991 - 별찍기 - 16](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q10991.java)
+  - [Q10992 - 별찍기 - 17](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q10992.java)
 
 #### [**Collections**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/collections)
   - [Q2750 - 수 정렬하기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/collections/Q2750.java)
