@@ -93,17 +93,17 @@
   - [Q11727 - 2xn 타일링 2](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/dp/Q11727.java)
   - [Q9095 - 1, 2, 3 더하기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/dp/Q9095.java)
   - [Q11052 - 붕어빵 판매하기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/dp/Q11052.java)
-  - [10844 쉬운 계단 수]
-  - [11057 오르막 수]
-  - [2193 이친수]
-  - [9465 스티커]
-  - [2156 포도주 시식]
-  - [11053 가장 긴 증가하는 부분 수열]
-  - [11055 가장 큰 증가 부분 수열]
-  - [11722 가장 긴 감소하는 부분 수열]
-  - [11054 가장 긴 바이토닉 부분 수열]
-  - [1912 연속합]
-  - [2579 계단 오르기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/dp/Q2579.java)
+  - [Q10844 - 쉬운 계단 수]
+  - [Q11057 - 오르막 수]
+  - [Q2193 - 이친수]
+  - [Q9465 - 스티커]
+  - [Q2156 - 포도주 시식]
+  - [Q11053 - 가장 긴 증가하는 부분 수열]
+  - [Q11055 - 가장 큰 증가 부분 수열]
+  - [Q11722 - 가장 긴 감소하는 부분 수열]
+  - [Q11054 - 가장 긴 바이토닉 부분 수열]
+  - [Q1912 - 연속합]
+  - [Q2579 - 계단 오르기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/dp/Q2579.java)
   - [1699 제곱수의 합]
   - [2133 타일 채우기]
   - [Q9461 - 파도반 수열]
@@ -114,20 +114,20 @@
   - [Q10430 - 나머지](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/math/Q10430.java)
   - [Q2609 - 최대공약수와 최소공배수](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/math/Q2609.java)
   - [Q1934 - 최소공배수](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/math/Q1934.java)
-  - [Q9613 GCD 합]
-  - [Q11005 진법 변환 2]
-  - [Q2745 진법 변환]
-  - [Q1373 2진수 8진수]
-  - [Q1212 8진수 2진수]
+  - [Q9613 - GCD 합]
+  - [Q11005 - 진법 변환 2]
+  - [Q2745 - 진법 변환]
+  - [Q1373 - 2진수 8진수]
+  - [Q1212 - 8진수 2진수]
   - [Q2089 -2진수]
-  - [Q11576 Base Conversion]
-  - [Q1978 소수 찾기]
-  - [Q1929 소수 구하기]
-  - [Q6588 골드바흐의 추측]
-  - [Q11653 소인수분해]
-  - [Q10872 팩토리얼]
-  - [Q1676 팩토리얼 0의 개수]
-  - [Q2004 조합 0의 개수]
+  - [Q11576 - Base Conversion]
+  - [Q1978 - 소수 찾기]
+  - [Q1929 - 소수 구하기]
+  - [Q6588 - 골드바흐의 추측]
+  - [Q11653 - 소인수분해]
+  - [Q10872 - 팩토리얼]
+  - [Q1676 - 팩토리얼 0의 개수]
+  - [Q2004 - 조합 0의 개수]
     
 #### [**Graph**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/graph)
   - [Q1260 - DFS와 BFS | 그래프 생성 및 탐색](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/graph/Q1260.java)
@@ -147,4 +147,17 @@
   - [Q11725 - 트리의 부모 찾기 | BFS 탐색 이용](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q11725.java)  
   - [Q1167 - 트리의 지름](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q1167.java)  
   - [Q1967 - 트리의 지름](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q1967.java)  
-           
+       
+#### [**Greedy**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/greedy)
+  - [Q11047 - 동전 0]
+  - [Q1931 - 회의실배정]
+  - [Q11399 - ATM]
+  - [Q1541 - 잃어버린 괄호]
+  - [Q1744 - 수 묶기]
+  - [Q2875 - 대회 or 인턴]
+  - [Q10610 - 30]
+  - [Q1783 - 병든 나이트]
+  - [Q1201 - NMK]
+  - [Q1080 - 행렬]
+  - [Q2873 - 롤러코스터]
+  
