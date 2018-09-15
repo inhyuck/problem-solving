@@ -149,7 +149,7 @@
   - [Q1967 - 트리의 지름](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q1967.java)  
        
 #### [**Greedy**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/greedy)
-  - [Q11047 - 동전 0]
+  - [Q11047 - 동전 0](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/greedy/Q11047.java)
   - [Q1931 - 회의실배정]
   - [Q11399 - ATM]
   - [Q1541 - 잃어버린 괄호]
