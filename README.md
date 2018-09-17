@@ -150,11 +150,11 @@
        
 #### [**Greedy**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/greedy)
   - [Q11047 - 동전 0](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/greedy/Q11047.java)
-  - [Q1931 - 회의실배정]
-  - [Q11399 - ATM]
-  - [Q1541 - 잃어버린 괄호]
-  - [Q1744 - 수 묶기]
-  - [Q2875 - 대회 or 인턴]
+  - [Q1931 - 회의실배정](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/greedy/Q1931.java)
+  - [Q11399 - ATM](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/greedy/Q11399.java)
+  - [Q1541 - 잃어버린 괄호](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/greedy/Q1541.java)
+  - [Q1744 - 수 묶기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/greedy/Q1744.java)
+  - [Q2875 - 대회 or 인턴](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/greedy/Q2875.java)
   - [Q10610 - 30]
   - [Q1783 - 병든 나이트]
   - [Q1201 - NMK]
