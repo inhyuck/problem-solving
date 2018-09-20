@@ -147,7 +147,7 @@
   - [Q11725 - 트리의 부모 찾기 | BFS 탐색 이용](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q11725.java)  
   - [Q1167 - 트리의 지름](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q1167.java)  
   - [Q1967 - 트리의 지름](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/tree/Q1967.java)  
-       
+    
 #### [**Greedy**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/greedy)
   - [Q11047 - 동전 0](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/greedy/Q11047.java)
   - [Q1931 - 회의실배정](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/greedy/Q1931.java)
@@ -160,4 +160,14 @@
   - [Q1201 - NMK]
   - [Q1080 - 행렬]
   - [Q2873 - 롤러코스터]
-  
+
+---
+
+### Kakao
+
+#### [**2019 카카오 신입채용 1차 코딩테스트**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/kakao)
+  - [연습문제 1](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/kakao/Test1.java)
+  - [연습문제 2](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/kakao/Test2.java)
+  - [Q1](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/kakao/Q1.java)
+  - [Q2](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/kakao/Q2.java)
+  - [Q4](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/kakao/Q4.java)
