@@ -1,16 +1,12 @@
-# SKHUCODE-inhyuck
+# Algorithm
 
 ### 안내
-- [SKHUCODE](https://github.com/skhucode) 는 성공회대 알고리즘 스터디입니다.
-- [SKHUCODE-main](https://github.com/skhucode/skhucode-main) 에 자세한 안내가 있습니다 😆
-- SKHUCODE-inhyuck repository는 [inhyuck](https://github.com/inhyuck) 이 푼 알고리즘 문제 저장소입니다.
+- 해당 repository는 [inhyuck](https://github.com/inhyuck) 이 푼 알고리즘 문제 저장소입니다.
 
 ### ID
-
-- [Baekjoon Online Judge](https://www.acmicpc.net/) - [dlsgur1447](https://www.acmicpc.net/user/dlsgur1447)
+- [Baekjoon Online Judge](https://www.acmicpc.net/) | [dlsgur1447](https://www.acmicpc.net/user/dlsgur1447)
 
 ## Index
-### Baekjoon Online Judge
 
 #### [**IO(입/출력)**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/io)
   - [Q2557 - Hello World](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q2557.java)
