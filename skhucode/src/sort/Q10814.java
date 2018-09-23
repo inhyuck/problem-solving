@@ -25,24 +25,23 @@ public class Q10814 {
             people[i] = new Person(Integer.parseInt(temp[0]), temp[1]);
         }
         //Arrays.sort는 기본적으로 stable sort이므로 자동적으로 가입순 유지됨!
-        Arrays.sort(people, new Comparator<Person>() {
-            @Override
-            public int compare(Person p1, Person p2) {
-                return p1.age - p2.age;
-            }
-        });
+        Arrays.sort(people, Comparator.comparing(Person::getAge));
         for (Person person : people) {
             System.out.println(person);
         }
     }
 
     static class Person {
-        int age;
-        String name;
+        private int age;
+        private String name;
 
         public Person(int age, String name) {
             this.age = age;
             this.name = name;
+        }
+
+        public int getAge() {
+            return age;
         }
 
         @Override

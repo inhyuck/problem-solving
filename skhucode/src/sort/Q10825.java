@@ -30,17 +30,14 @@ public class Q10825 {
             students[i] = new Student(temp[0], Integer.parseInt(temp[1]),
                     Integer.parseInt(temp[2]), Integer.parseInt(temp[3]));
         }
-        Arrays.sort(students, new Comparator<Student>() {
-            @Override
-            public int compare(Student s1, Student s2) {
-                int r = s2.korean - s1.korean;
-                if (r != 0) return r;
-                r = s1.english - s2.english;
-                if (r != 0) return r;
-                r = s2.math - s1.math;
-                if (r != 0) return r;
-                return s1.name.compareTo(s2.name);
-            }
+        Arrays.sort(students, (Student s1, Student s2) -> {
+            int r = s2.korean - s1.korean;
+            if (r != 0) return r;
+            r = s1.english - s2.english;
+            if (r != 0) return r;
+            r = s2.math - s1.math;
+            if (r != 0) return r;
+            return s1.name.compareTo(s2.name);
         });
         for (Student student : students) {
             System.out.println(student.name);
@@ -48,16 +45,32 @@ public class Q10825 {
     }
 
     static class Student {
-        String name;
-        int korean;
-        int english;
-        int math;
+        private String name;
+        private int korean;
+        private int english;
+        private int math;
 
         public Student(String name, int korean, int english, int math) {
             this.name = name;
             this.korean = korean;
             this.english = english;
             this.math = math;
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public int getKorean() {
+            return korean;
+        }
+
+        public int getEnglish() {
+            return english;
+        }
+
+        public int getMath() {
+            return math;
         }
     }
 }

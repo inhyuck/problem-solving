@@ -21,15 +21,8 @@ public class Q11651 {
             list.add(new Point(Integer.parseInt(line[0]), Integer.parseInt(line[1])));
         }
 
-        Collections.sort(list, new Comparator<Point>() {
-            @Override
-            public int compare(Point p1, Point p2) {
-                int r = p1.y - p2.y;
-                if (r != 0) return r;
-                return p1.x - p2.x;
-            }
-        });
-
+        Collections.sort(list, Comparator.comparing(Point::getY)
+                .thenComparing(Point::getX));
         StringBuilder builder = new StringBuilder();
         for (Point point : list) {
             builder.append(point.toString() + "\n");
@@ -40,8 +33,16 @@ public class Q11651 {
 
     //Point Class
     static class Point {
-        int x;
-        int y;
+        private int x;
+        private int y;
+
+        public int getX() {
+            return x;
+        }
+
+        public int getY() {
+            return y;
+        }
 
         public Point(int x, int y) {
             this.x = x;
