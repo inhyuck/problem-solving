@@ -152,10 +152,10 @@
   - Baekjoon [2875 - 대회 or 인턴](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/greedy/Q2875.java)
   - Baekjoon [10610 - 30](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/greedy/Q10610.java)
   - Baekjoon [1783 - 병든 나이트](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/greedy/Q1783.java)
-    - [Test Code]((https://github.com/inhyuck/algorithm/blob/master/src/test/java/io/inhyuck/greedy/Q1783Test.java))
-  - Baekjoon [1201 - NMK]
-  - Baekjoon [1080 - 행렬]
-  - Baekjoon [2873 - 롤러코스터]
+    - [Test Code](https://github.com/inhyuck/algorithm/blob/master/src/test/java/io/inhyuck/greedy/Q1783Test.java)
+  - Baekjoon [1201 - NMK](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/greedy/Q1201.java)
+  - Baekjoon [1080 - 행렬](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/greedy/Q1080.java)
+  - Baekjoon [2873 - 롤러코스터](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/greedy/Q2873.java)
 
 ---
 
