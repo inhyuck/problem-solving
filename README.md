@@ -132,6 +132,7 @@
   - Baekjoon [9466 - 텀 프로젝트 | 사이클 찾기](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/graph/Q9466.java)
   - Baekjoon [10451 - 순열 사이클 | 사이클 찾기](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/graph/Q10451.java)
   - Baekjoon [2667 - 단지번호붙이기 | 행렬탐색 상하좌우](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/graph/Q2667.java)
+  - Baekjoon [2583 - 영역 구하기 | 행렬탐색 상하좌우, N M이 반대일 때](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/graph/Q2583.java)
   - Baekjoon [4963 - 섬의 개수 | 행렬탐색 상하좌우대각선](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/graph/Q4963.java)
   - Baekjoon [2178 - 미로탐색 | BFS 최단거리](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/graph/Q2178.java)
   - Baekjoon [7576 - 토마토 | BFS 여러곳에서 동시에 확장](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/graph/Q7576.java)
