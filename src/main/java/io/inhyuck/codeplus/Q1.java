@@ -6,6 +6,10 @@
  * description: 문장에서 날짜 추출해서 정렬하고 다시 출력
  */
 
+/**
+ * 18년 1월 11일, 18년 11월 1일 입력하면 둘 다 20181101로 변환되는 문제 있음.(수정해야함)
+ */
+
 package io.inhyuck.codeplus;
 
 import java.io.BufferedReader;
@@ -44,6 +48,8 @@ public class Q1 {
             }
             date[i] = Integer.parseInt(temp);
         }
+
+        System.out.println(Arrays.toString(date));
 
         Map<Integer, String> map = new HashMap<>();
         for (int i = 0; i < 3; i++) {
