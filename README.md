@@ -30,6 +30,8 @@
   - Baekjoon [1924 - 2007년](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q1924.java)
   - Baekjoon [8393 - Sum](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q8393.java)
   - Baekjoon [10818 - 최소, 최대](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q10818.java)
+  - Baekjoon [2577 - 숫자의 개수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2577.java)
+  - Baekjoon [15552 - 빠른 A + B | BufferedWriter](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q15552.java)
   - Baekjoon [2438 - 별찍기 - 1](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2438.java)
   - Baekjoon [2439 - 별찍기 - 2](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2439.java)
   - Baekjoon [2440 - 별찍기 - 3](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2440.java)
