@@ -60,6 +60,6 @@ public class Q2504 {
                     break;
             }
         } while (!stack.isEmpty());
-        return result;
+        return 0;
     }
 }

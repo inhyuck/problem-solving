@@ -7,6 +7,17 @@
 - [Baekjoon Online Judge](https://www.acmicpc.net/) | [dlsgur1447](https://www.acmicpc.net/user/dlsgur1447)
 
 ## Index
+#### [**Basic**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/basic)
+  - Baekjoon [1065 - 한수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q1065.java)
+  - Baekjoon [11654 - 아스키 코드](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q11654.java)
+  - Baekjoon [2908 - 상수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2908.java)
+  - Baekjoon [10039 - 평균 점수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q10039.java)
+  - Baekjoon [5622 - 다이얼](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q5622.java)
+  - Baekjoon [2920 - 음계](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2920.java)
+  - Baekjoon [4673 - 셀프 넘버](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q4673.java)
+  - Baekjoon [1316 - 그룹 단어 체커](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q1316.java)
+  - Baekjoon [2941 - 크로아티아 알파벳 | 문자열 처리](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2941.java)
+
 #### [**IO(입/출력)**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
   - Baekjoon [1000 - A+B](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q1000.java)
@@ -22,6 +33,7 @@
   - Baekjoon [10953 - A+B - 6](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q10953.java)
   - Baekjoon [11021 - A+B - 7](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q11021.java)
   - Baekjoon [11022 - A+B - 8](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q11022.java)
+  - Baekjoon [2675 - 문자열 반복](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2675.java)
   - Baekjoon [11718 - 그대로 출력하기](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q11718.java)
   - Baekjoon [11719 - 그대로 출력하기 2](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q11719.java)
   - Baekjoon [11720 - 숫자의 합](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q11720.java)
@@ -57,6 +69,8 @@
   - Baekjoon [9012 - 괄호 | Stack](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q9012.java)
   - Baekjoon [10799 - 쇠막대기 | Stack](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q10799.java)
   - Baekjoon [1406 - 에디터 | Stack](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q1406.java)
+  - Baekjoon [1874 - 스택 수열 | Stack](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q1874.java)
+  - Baekjoon [2504 - 괄호의 값 | Stack]
   - Baekjoon [1158 - 조세퍼스 문제 | Queue](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q1158.java)
   - Baekjoon [10866 - 덱 | Deque](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q10866.java) 
   - Baekjoon [10808 - 알파벳 개수 | 문자열](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q10808.java)
@@ -67,6 +81,8 @@
   - Baekjoon [11656 - 접미사 배열 | 문자열](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q11656.java)
 
 #### [**Sort**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/sort)
+  - Baekjoon [1181 - 단어 정렬](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/sort/Q1181.java)
+  - Baekjoon [1427 - 소트인사이드](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/sort/Q1427.java)
   - Baekjoon [2750 - 수 정렬하기](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/sort/Q2750.java)
   - Baekjoon [2751 - 수 정렬하기 2](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/sort/Q2751.java)
   - Baekjoon [10989 - 수 정렬하기 3 | 데이터 갯수 많지만 범위가 한정적일 때](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/sort/Q10989.java)
@@ -169,7 +185,7 @@
   - Baekjoon [2263 - 트리의 순회](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2263.java)
   - Baekjoon [1992 - 쿼드트리](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1992.java)
   - Baekjoon [2447 - 별찍기 - 10]
-  - Baekjoon [2448 - 별찍기 - 11]
+  - Baekjoon [2448 - 별찍기 - 11](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2448.java)
   - Baekjoon [1074 - Z]
   - Baekjoon [1517 - 버블 소트]
   - Baekjoon [2261 - 가장 가까운 두 점]
