@@ -18,6 +18,10 @@
   - Baekjoon [1316 - 그룹 단어 체커](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q1316.java)
   - Baekjoon [2941 - 크로아티아 알파벳 | 문자열 처리](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2941.java)
   - Baekjoon [2108 - 통계학](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2108.java)
+  - Baekjoon [2292 - 벌집 | 규칙찾기](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2292.java)
+  - Baekjoon [1676 - 팩토리얼 0의 개수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q1676.java)
+  - Baekjoon [10872 - 팩토리얼](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q10872.java)
+  - Baekjoon [2490 - 윷놀이 | enum 연습](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2490.java)
 
 #### [**I.O.(입/출력)**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
