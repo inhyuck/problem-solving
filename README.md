@@ -22,6 +22,7 @@
   - Baekjoon [1676 - 팩토리얼 0의 개수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q1676.java)
   - Baekjoon [10872 - 팩토리얼](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q10872.java)
   - Baekjoon [2490 - 윷놀이 | enum 연습](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2490.java)
+  - Baekjoon [2748 - 피보나치 수 2](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2748.java)
 
 #### [**I.O.(입/출력)**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
