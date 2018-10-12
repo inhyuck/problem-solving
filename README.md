@@ -8,7 +8,6 @@
 
 ## Index
 #### [**Basic**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/basic)
-  - Baekjoon [1065 - 한수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q1065.java)
   - Baekjoon [11654 - 아스키 코드](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q11654.java)
   - Baekjoon [2908 - 상수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2908.java)
   - Baekjoon [10039 - 평균 점수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q10039.java)
@@ -184,6 +183,7 @@
   - Baekjoon [2873 - 롤러코스터](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/greedy/Q2873.java)
 
 #### [**Divide & Conquer**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/divide_conquer)
+  - Baekjoon [1920 - 수 찾기](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1920.java)
   - Baekjoon [10815 숫자 카드 | 이분탐색](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q10815.java)
   - Baekjoon [10816 숫자 카드 2 | 이중 이분탐색](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q10816.java)
   - Baekjoon [11728 배열 합치기](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q11728.java)
@@ -196,6 +196,14 @@
   - Baekjoon [1074 - Z]
   - Baekjoon [1517 - 버블 소트]
   - Baekjoon [2261 - 가장 가까운 두 점]
+
+#### [**Brute Force**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/brute_force)
+  - Baekjoon [1065 - 한수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/brute_force/Q1065.java)
+  - Baekjoon [2309 - 일곱 난쟁이](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/brute_force/Q2309.java)
+  - Baekjoon [7568 - 덩치](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/brute_force/Q7568.java)
+
+#### [**Strings 문자열**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/strings)
+  - Baekjoon [2902 - KMP는 왜 KMP일까? | 정규표현식](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/strings/Q2902.java)
 
 ---
 

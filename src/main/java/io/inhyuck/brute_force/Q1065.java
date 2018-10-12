@@ -9,7 +9,7 @@
  * Problem URL: https://www.acmicpc.net/problem/1065
  */
 
-package io.inhyuck.basic;
+package io.inhyuck.brute_force;
 
 import java.util.Scanner;
 
