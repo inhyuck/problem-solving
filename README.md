@@ -19,11 +19,7 @@
 - [Greedy](#greedy)
 - [Divide & Conquer](#divide--conquer)
 - [Brute Force](#brute-force)
-- [trings 문자열](#strings-문자열)
-
----
-
-- [2019 카카오 신입채용 1차 코딩테스트](#2019-카카오-신입채용-1차-코딩테스트)
+- [strings 문자열](#strings-문자열)
 
 ---
 
