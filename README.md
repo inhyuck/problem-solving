@@ -22,6 +22,7 @@
   - Baekjoon [10872 - 팩토리얼](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q10872.java)
   - Baekjoon [2490 - 윷놀이 | enum 연습](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2490.java)
   - Baekjoon [2748 - 피보나치 수 2](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2748.java)
+  - Baekjoon [2420 - 사파리월드 | Math.abs 절댓값](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2420.java)
 
 #### [**I.O.(입/출력)**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
@@ -75,7 +76,7 @@
   - Baekjoon [10799 - 쇠막대기 | Stack](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q10799.java)
   - Baekjoon [1406 - 에디터 | Stack](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q1406.java)
   - Baekjoon [1874 - 스택 수열 | Stack](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q1874.java)
-  - Baekjoon [2504 - 괄호의 값 | Stack]
+  - Baekjoon [2504 - 괄호의 값 | Stack] => 재도전 해야함.
   - Baekjoon [1158 - 조세퍼스 문제 | Queue](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q1158.java)
   - Baekjoon [10866 - 덱 | Deque](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q10866.java) 
   - Baekjoon [10808 - 알파벳 개수 | 문자열](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q10808.java)
@@ -147,6 +148,8 @@
   - Baekjoon [10872 - 팩토리얼]
   - Baekjoon [1676 - 팩토리얼 0의 개수]
   - Baekjoon [2004 - 조합 0의 개수]
+  - Baekjoon [2407 - 조합 | 조합, BigInteger](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/math/Q2407.java)
+  - Baekjoon [2869 - 달팽이는 올라가고 싶다 | Math.ceil 올림](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/math/Q2869.java)
     
 #### [**Graph**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/graph)
   - Baekjoon [1260 - DFS와 BFS | 그래프 생성 및 탐색](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/graph/Q1260.java)
@@ -201,9 +204,12 @@
   - Baekjoon [1065 - 한수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/brute_force/Q1065.java)
   - Baekjoon [2309 - 일곱 난쟁이](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/brute_force/Q2309.java)
   - Baekjoon [7568 - 덩치](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/brute_force/Q7568.java)
+  - Baekjoon [1038 - 감소하는 수] => 재도전 해야함
+  - Baekjoon [2231 - 분해합](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/brute_force/Q2231.java)
 
 #### [**Strings 문자열**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/strings)
   - Baekjoon [2902 - KMP는 왜 KMP일까? | 정규표현식](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/strings/Q2902.java)
+  - Baekjoon [3613 - Java vs C++ | 정규표현식](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/strings/Q3613.java)
 
 ---
 
