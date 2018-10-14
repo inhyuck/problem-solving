@@ -19,12 +19,13 @@
 - [Greedy](#greedy)
 - [Divide & Conquer](#divide--conquer)
 - [Brute Force](#brute-force)
-- [strings 문자열](#strings-문자열)
+- [Strings 문자열](#strings-문자열)
 
 ---
 
 #### [**Basic**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/basic)
   - Baekjoon [11654 - 아스키 코드](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q11654.java)
+  - Baekjoon [3052 - 나머지](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q3052.java)
   - Baekjoon [2908 - 상수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2908.java)
   - Baekjoon [10039 - 평균 점수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q10039.java)
   - Baekjoon [5622 - 다이얼](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q5622.java)
