@@ -1,10 +1,10 @@
-# Algorithm
+# Problem Solving
 
 ### 안내
 - 해당 repository는 [inhyuck](https://github.com/inhyuck) 이 푼 알고리즘 문제 저장소입니다.
 
 ### ID
-- [Baekjoon Online Judge](https://www.acmicpc.net/) | [dlsgur1447](https://www.acmicpc.net/user/dlsgur1447)
+- [Baekjoon Online Judge](https://www.acmicpc.net/) | ID [inhyuck](https://www.acmicpc.net/user/inhyuck)
 
 ## Index
 - [Basic](#basic)
@@ -211,7 +211,7 @@
   - Baekjoon [11729 - 하노이 탑 이동 순서](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q11729.java)
   - Baekjoon [2263 - 트리의 순회](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2263.java)
   - Baekjoon [1992 - 쿼드트리](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1992.java)
-  - Baekjoon [2447 - 별찍기 - 10]
+  - Baekjoon [2447 - 별찍기 - 10](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2447.java)
   - Baekjoon [2448 - 별찍기 - 11](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2448.java)
   - Baekjoon [1074 - Z]
   - Baekjoon [1517 - 버블 소트]
