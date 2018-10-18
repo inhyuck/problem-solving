@@ -25,6 +25,7 @@
 
 #### [**Basic**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/basic)
   - Baekjoon [11654 - 아스키 코드](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q11654.java)
+  - Baekjoon [1110 - 더하기 사이클](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q1110.java)
   - Baekjoon [3052 - 나머지](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q3052.java)
   - Baekjoon [2908 - 상수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2908.java)
   - Baekjoon [10039 - 평균 점수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q10039.java)
@@ -40,6 +41,7 @@
   - Baekjoon [2490 - 윷놀이 | enum 연습](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2490.java)
   - Baekjoon [2748 - 피보나치 수 2](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2748.java)
   - Baekjoon [2420 - 사파리월드 | Math.abs 절댓값](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q2420.java)
+  - Baekjoon [16199 - 나이 계산하기 | 날짜계산 java.time.LocalDate](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/basic/Q16199.java)
 
 #### [**I.O.(입/출력)**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
@@ -102,6 +104,7 @@
   - Baekjoon [2743 - 단어 길이 재기 | 문자열](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q2743.java)
   - Baekjoon [11655 - ROT13 | 문자열](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q11655.java)
   - Baekjoon [11656 - 접미사 배열 | 문자열](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q11656.java)
+  - Baekjoon [11723 - 집합 | Set](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/collections/Q11723.java)
 
 #### [**Sort**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/sort)
   - Baekjoon [1181 - 단어 정렬](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/sort/Q1181.java)
@@ -145,6 +148,7 @@
   - Baekjoon [2133 타일 채우기]
   - Baekjoon [9461 - 파도반 수열]
   - Baekjoon [2225 - 합분해]
+  - Baekjoon [1110 - 더하기 사이클]
   - Baekjoon [2011 - 암호코드](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/dp/Q2011.java)   
 
 #### [**Math**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/math)
@@ -202,7 +206,7 @@
   - Baekjoon [1080 - 행렬](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/greedy/Q1080.java)
   - Baekjoon [2873 - 롤러코스터](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/greedy/Q2873.java)
 
-#### [**Divide & Conquer**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/divide_conquer)
+#### [**Divide & Conquer 분할 정복**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/divide_conquer)
   - Baekjoon [1920 - 수 찾기](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1920.java)
   - Baekjoon [10815 숫자 카드 | 이분탐색](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q10815.java)
   - Baekjoon [10816 숫자 카드 2 | 이중 이분탐색](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q10816.java)
@@ -213,7 +217,7 @@
   - Baekjoon [1992 - 쿼드트리](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1992.java)
   - Baekjoon [2447 - 별찍기 - 10](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2447.java)
   - Baekjoon [2448 - 별찍기 - 11](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2448.java)
-  - Baekjoon [1074 - Z]
+  - Baekjoon [1074 - Z | 분할하여 일부분만 탐색(like 이분 탐색)](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1074.java)
   - Baekjoon [1517 - 버블 소트]
   - Baekjoon [2261 - 가장 가까운 두 점]
 
@@ -227,6 +231,7 @@
 #### [**Strings 문자열**](https://github.com/inhyuck/algorithm/tree/master/src/main/java/io/inhyuck/strings)
   - Baekjoon [2902 - KMP는 왜 KMP일까? | 정규표현식](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/strings/Q2902.java)
   - Baekjoon [3613 - Java vs C++ | 정규표현식](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/strings/Q3613.java)
+  - Baekjoon [1152 - 단어의 개수](https://github.com/inhyuck/algorithm/blob/master/src/main/java/io/inhyuck/strings/Q1152.java)
 
 ---
 
