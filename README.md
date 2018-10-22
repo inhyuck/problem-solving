@@ -224,7 +224,7 @@
   - Baekjoon [2447 - 별찍기 - 10](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2447.java)
   - Baekjoon [2448 - 별찍기 - 11](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2448.java)
   - Baekjoon [1074 - Z | 분할하여 일부분만 탐색(like 이분 탐색)](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1074.java)
-  - Baekjoon [1517 - 버블 소트]
+  - Baekjoon [1517 - 버블 소트 | Merge Sort 이용하여 Bubble Sort Swap 횟수 구하기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1517.java)
   - Baekjoon [2261 - 가장 가까운 두 점]
 
 #### [**Brute Force**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/brute_force)
