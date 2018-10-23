@@ -47,6 +47,8 @@
   - Baekjoon [6064 - 카잉 달력](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q6064.java)
   - Baekjoon [10871 - X보다 작은 수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q10871.java)
   - Baekjoon [4344 - 평균은 넘겠지](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q4344.java)
+  - Baekjoon [2744 - 대소문자 바꾸기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2744.java)
+  - Baekjoon [1546 - 평균](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q1546.java)
 
 #### [**I.O.(입/출력)**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
