@@ -49,6 +49,7 @@
   - Baekjoon [4344 - 평균은 넘겠지](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q4344.java)
   - Baekjoon [2744 - 대소문자 바꾸기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2744.java)
   - Baekjoon [1546 - 평균](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q1546.java)
+  - Baekjoon [2455 - 지능형 기차](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2455.java)
 
 #### [**I.O.(입/출력)**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
@@ -227,7 +228,15 @@
   - Baekjoon [2448 - 별찍기 - 11](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2448.java)
   - Baekjoon [1074 - Z | 분할하여 일부분만 탐색(like 이분 탐색)](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1074.java)
   - Baekjoon [1517 - 버블 소트 | Merge Sort 이용하여 Bubble Sort Swap 횟수 구하기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1517.java)
-  - Baekjoon [2261 - 가장 가까운 두 점]
+  - Baekjoon [2261 - 가장 가까운 두 점 | 난이도 상 ㅠ]
+
+#### [**Binary Search 이분 탐색**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/binary_search)
+  - Baekjoon [1654 - 랜선 자르기 | 이분탐색으로 최댓값 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q1654.java)
+  - Baekjoon [2805 - 나무 자르기]
+  - Baekjoon [2110 - 공유기 설치]
+  - Baekjoon [1939 - 중량제한]
+  - Baekjoon [1561 - 놀이 공원]
+  - Baekjoon [2022 - 사다리]
 
 #### [**Brute Force**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/brute_force)
   - Baekjoon [1065 - 한수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q1065.java)
