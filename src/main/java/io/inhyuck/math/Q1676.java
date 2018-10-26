@@ -7,7 +7,7 @@
  * Problem URL: https://www.acmicpc.net/problem/1676
  */
 
-package io.inhyuck.basic;
+package io.inhyuck.math;
 
 import java.util.Scanner;
 
