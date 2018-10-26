@@ -18,6 +18,7 @@
 - [Tree](#tree)
 - [Greedy](#greedy)
 - [Divide & Conquer](#divide--conquer)
+- [Binary Search](#binary-search-이분-탐색)
 - [Brute Force](#brute-force)
 - [Strings 문자열](#strings-문자열)
 
@@ -36,8 +37,6 @@
   - Baekjoon [2941 - 크로아티아 알파벳 | 문자열 처리](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2941.java)
   - Baekjoon [2108 - 통계학](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2108.java)
   - Baekjoon [2292 - 벌집 | 규칙찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2292.java)
-  - Baekjoon [1676 - 팩토리얼 0의 개수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q1676.java)
-  - Baekjoon [10872 - 팩토리얼](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q10872.java)
   - Baekjoon [2490 - 윷놀이 | enum 연습](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2490.java)
   - Baekjoon [2748 - 피보나치 수 2](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2748.java)
   - Baekjoon [2420 - 사파리월드 | Math.abs 절댓값](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2420.java)
@@ -169,14 +168,14 @@
   - Baekjoon [2745 - 진법 변환]
   - Baekjoon [1373 - 2진수 8진수]
   - Baekjoon [1212 - 8진수 2진수]
-  - Baekjoon [2089 -2진수]
+  - Baekjoon [2089 - -2진수]
   - Baekjoon [11576 - Base Conversion]
   - Baekjoon [1978 - 소수 찾기]
   - Baekjoon [1929 - 소수 구하기]
   - Baekjoon [6588 - 골드바흐의 추측]
   - Baekjoon [11653 - 소인수분해]
-  - Baekjoon [10872 - 팩토리얼]
-  - Baekjoon [1676 - 팩토리얼 0의 개수]
+  - Baekjoon [10872 - 팩토리얼](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q10872.java)
+  - Baekjoon [1676 - 팩토리얼 0의 개수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1676.java)
   - Baekjoon [2004 - 조합 0의 개수]
   - Baekjoon [2407 - 조합 | 조합, BigInteger](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q2407.java)
   - Baekjoon [2869 - 달팽이는 올라가고 싶다 | Math.ceil 올림](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q2869.java)
@@ -228,7 +227,7 @@
   - Baekjoon [2448 - 별찍기 - 11](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2448.java)
   - Baekjoon [1074 - Z | 분할하여 일부분만 탐색(like 이분 탐색)](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1074.java)
   - Baekjoon [1517 - 버블 소트 | Merge Sort 이용하여 Bubble Sort Swap 횟수 구하기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q1517.java)
-  - Baekjoon [2261 - 가장 가까운 두 점 | 난이도 상 ㅠ]
+  - Baekjoon [2261 - 가장 가까운 두 점 | 난이도 상](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/divide_conquer/Q2261.java)
 
 #### [**Binary Search 이분 탐색**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/binary_search)
   - Baekjoon [1654 - 랜선 자르기 | 이분탐색으로 최댓값 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q1654.java)
