@@ -140,7 +140,7 @@
   - Baekjoon [11727 - 2xn 타일링 2](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q11727.java)
   - Baekjoon [9095 - 1, 2, 3 더하기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q9095.java)
   - Baekjoon [11052 - 붕어빵 판매하기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q11052.java)
-  - Baekjoon [10844 - 쉬운 계단 수]
+  - Baekjoon [10844 - 쉬운 계단 수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q10844.java)
   - Baekjoon [11057 - 오르막 수]
   - Baekjoon [2193 - 이친수]
   - Baekjoon [9465 - 스티커]
