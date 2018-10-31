@@ -232,7 +232,7 @@
 #### [**Binary Search 이분 탐색**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/binary_search)
   - Baekjoon [1654 - 랜선 자르기 | 이분탐색으로 최댓값 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q1654.java)
   - Baekjoon [2805 - 나무 자르기 | 이분탐색으로 최댓값 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q2805.java)
-  - Baekjoon [2110 - 공유기 설치]
+  - Baekjoon [2110 - 공유기 설치 | 이분탐색으로 최댓값 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q2110.java)
   - Baekjoon [1939 - 중량제한]
   - Baekjoon [1561 - 놀이 공원]
   - Baekjoon [2022 - 사다리]
