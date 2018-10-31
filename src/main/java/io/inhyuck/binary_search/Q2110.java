@@ -8,7 +8,7 @@
  * Problem URL: https://www.acmicpc.net/problem/2110
  */
 
-package io.inhyuck.divide_conquer;
+package io.inhyuck.binary_search;
 
 import java.io.BufferedReader;
 import java.io.IOException;
