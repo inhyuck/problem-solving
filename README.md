@@ -249,6 +249,7 @@
   - Baekjoon [3613 - Java vs C++ | 정규표현식](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/strings/Q3613.java)
   - Baekjoon [1152 - 단어의 개수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/strings/Q1152.java)
   - Baekjoon [8958 - OX퀴즈](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/strings/Q8958.java)
+  - Baekjoon [16205 - 변수명](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/strings/Q16205.java)
 
 ---
 
