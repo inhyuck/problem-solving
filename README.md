@@ -49,6 +49,12 @@
   - Baekjoon [2744 - 대소문자 바꾸기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2744.java)
   - Baekjoon [1546 - 평균](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q1546.java)
   - Baekjoon [2455 - 지능형 기차](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2455.java)
+  - Baekjoon [2443 - 별찍기 - 6](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2443.java)
+  - Baekjoon [2475 - 검증수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2475.java)
+  - Baekjoon [2914 - 저작권](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2914.java)
+  - Baekjoon [3046 - R2](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q3046.java)
+  - Baekjoon [10797 - 10부제](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q10797.java)
+  - Baekjoon [10886 - 0 = not cute / 1 = cute](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q10886.java)
 
 #### [**I.O.(입/출력)**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
