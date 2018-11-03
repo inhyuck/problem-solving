@@ -17,7 +17,7 @@
 - [Graph](#graph)
 - [Tree](#tree)
 - [Greedy](#greedy)
-- [Divide & Conquer](#divide--conquer)
+- [Divide & Conquer](#divide--conquer-분할-정복)
 - [Binary Search](#binary-search-이분-탐색)
 - [Brute Force](#brute-force)
 - [Strings 문자열](#strings-문자열)
