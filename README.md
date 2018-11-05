@@ -1,10 +1,10 @@
 # Problem Solving
 
 ### 안내
-- 해당 repository는 [inhyuck](https://github.com/inhyuck) 이 푼 알고리즘 문제 저장소입니다.
+- 해당 repository는 [inhyuck(github.com/inhyuck)](https://github.com/inhyuck) 이 푼 알고리즘 문제 풀이 저장소입니다.
 
 ### ID
-- [Baekjoon Online Judge](https://www.acmicpc.net/) | ID [inhyuck](https://www.acmicpc.net/user/inhyuck)
+- [Baekjoon Online Judge(www.acmicpc.net)](https://www.acmicpc.net/) | ID [inhyuck(www.acmicpc.net/user/inhyuck)](https://www.acmicpc.net/user/inhyuck)
 
 ## Index
 - [Basic](#basic)
