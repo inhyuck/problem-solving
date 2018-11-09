@@ -23,14 +23,13 @@ public class Q2110 {
         int n = Integer.parseInt(tokenizer.nextToken());
         int c = Integer.parseInt(tokenizer.nextToken());
         int[] points = new int[n];
-        int maxPoint = 0;
         for (int i = 0; i < n; i++) {
             points[i] = Integer.parseInt(reader.readLine());
-            maxPoint = Math.max(points[i], maxPoint);
         }
         Arrays.parallelSort(points);
 
-        int left = 0, right = maxPoint, middle;
+        int left = 1, right = points[n - 1] - points[0];
+        int middle;
         int maxLength = -1;
         while (left <= right) {
             middle = (left + right) / 2;
