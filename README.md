@@ -55,6 +55,7 @@
   - Baekjoon [3046 - R2](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q3046.java)
   - Baekjoon [10797 - 10부제](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q10797.java)
   - Baekjoon [10886 - 0 = not cute / 1 = cute](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q10886.java)
+  - Baekjoon [2594 - 놀이공원](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2594.java)
 
 #### [**I.O.(입/출력)**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
