@@ -151,7 +151,7 @@
   - Baekjoon [11052 - 붕어빵 판매하기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q11052.java)
   - Baekjoon [10844 - 쉬운 계단 수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q10844.java)
   - Baekjoon [11057 - 오르막 수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q11057.java)
-  - Baekjoon [2193 - 이친수]
+  - Baekjoon [2193 - 이친수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q2193.java)
   - Baekjoon [9465 - 스티커]
   - Baekjoon [2156 - 포도주 시식]
   - Baekjoon [11053 - 가장 긴 증가하는 부분 수열]
