@@ -243,8 +243,8 @@
   - Baekjoon [2805 - 나무 자르기 | 이분탐색으로 최댓값 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q2805.java)
   - Baekjoon [2110 - 공유기 설치 | 이분탐색으로 최댓값 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q2110.java)
   - Baekjoon [1939 - 중량제한 | Graph + 이분탐색으로 최댓값 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q1939.java)
-  - Baekjoon [1561 - 놀이 공원]
-  - Baekjoon [2022 - 사다리]
+  - Baekjoon [1561 - 놀이 공원 | 이분탐색으로 정답과 밀접한 관계가 있는것을 결정하고 정답 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q1561.java)
+  - Baekjoon [2022 - 사다리 | 실수범위에서 이분탐색으로 정답 찾기, Math](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/binary_search/Q2022.java)
 
 #### [**Brute Force**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/brute_force)
   - Baekjoon [1065 - 한수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q1065.java)
