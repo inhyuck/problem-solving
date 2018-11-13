@@ -120,6 +120,14 @@
   - Baekjoon [11655 - ROT13 | 문자열](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/collections/Q11655.java)
   - Baekjoon [11656 - 접미사 배열 | 문자열](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/collections/Q11656.java)
   - Baekjoon [11723 - 집합 | Set](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/collections/Q11723.java)
+  - Baekjoon [검열]
+  - Baekjoon [문자열 폭발]
+  - Baekjoon [히스토그램에서 가장 큰 직사각형]
+  - Baekjoon [오아시스 재결합]
+  - Baekjoon [집합의 표현]
+  - Baekjoon [바이러스]
+  - Baekjoon [Ceiling Function]
+  - Baekjoon [회사에 있는 사람]
 
 #### [**Sort**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/sort)
   - Baekjoon [1181 - 단어 정렬](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/sort/Q1181.java)
@@ -252,9 +260,29 @@
   - Baekjoon [7568 - 덩치](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q7568.java)
   - Baekjoon [1038 - 감소하는 수] => 재도전 해야함
   - Baekjoon [2231 - 분해합](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q2231.java)
-  - Baekjoon [1476 - 날짜 계산](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q1476.java)
   - Baekjoon [11723 - 집합 | bitmask, BitSet](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q11723.java)
-
+  - Baekjoon [10972 - 다음 순열]
+  - Baekjoon [10973 - 이전 순열]
+  - Baekjoon [10974 - 모든 순열]
+  - Baekjoon [1722 - 순열의 순서]
+  - Baekjoon [1476 - 날짜 계산](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q1476.java)
+  - Baekjoon [1107 - 리모컨]
+  - Baekjoon [9095 - 1, 2, 3 더하기]
+  - Baekjoon [10819 - 차이를 최대로]
+  - Baekjoon [10971 - 외판원 순회 2]
+  - Baekjoon [6603 - 로또]
+  - Baekjoon [1697 - 숨바꼭질]
+  - Baekjoon [1963 - 소수 경로]
+  - Baekjoon [9019 - DSLR]
+  - Baekjoon [1525 - 퍼즐]
+  - Baekjoon [2251 - 물통]
+  - Baekjoon [1759 - 암호 만들기]
+  - Baekjoon [9663 - N-Queen]
+  - Baekjoon [2580 - 스도쿠]
+  - Baekjoon [1987 - 알파벳]
+  - Baekjoon [6603 - 로또]
+  - Baekjoon [1182 - 부분집합의 합]
+  
 #### [**Strings 문자열**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/strings)
   - Baekjoon [2902 - KMP는 왜 KMP일까? | 정규표현식](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/strings/Q2902.java)
   - Baekjoon [3613 - Java vs C++ | 정규표현식](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/strings/Q3613.java)
