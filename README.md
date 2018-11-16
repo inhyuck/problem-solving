@@ -261,9 +261,9 @@
   - Baekjoon [1038 - 감소하는 수] => 재도전 해야함
   - Baekjoon [2231 - 분해합](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q2231.java)
   - Baekjoon [11723 - 집합 | bitmask, BitSet](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q11723.java)
-  - Baekjoon [10972 - 다음 순열]
-  - Baekjoon [10973 - 이전 순열]
-  - Baekjoon [10974 - 모든 순열]
+  - Baekjoon [10972 - 다음 순열](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q10972.java)
+  - Baekjoon [10973 - 이전 순열](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q10973.java)
+  - Baekjoon [10974 - 모든 순열](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q10974.java)
   - Baekjoon [1722 - 순열의 순서]
   - Baekjoon [1476 - 날짜 계산](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q1476.java)
   - Baekjoon [1107 - 리모컨]
