@@ -172,7 +172,6 @@
   - Baekjoon [2133 타일 채우기]
   - Baekjoon [9461 - 파도반 수열]
   - Baekjoon [2225 - 합분해]
-  - Baekjoon [1110 - 더하기 사이클]
   - Baekjoon [2011 - 암호코드](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q2011.java)   
   - Baekjoon [2839 - 설탕 배달](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q2839.java)   
 
@@ -183,7 +182,7 @@
   - Baekjoon [9613 - GCD 합]
   - Baekjoon [11005 - 진법 변환 2]
   - Baekjoon [2745 - 진법 변환]
-  - Baekjoon [1373 - 2진수 8진수]
+  - Baekjoon [1373 - 2진수 8진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1373.java)
   - Baekjoon [1212 - 8진수 2진수]
   - Baekjoon [2089 - -2진수]
   - Baekjoon [11576 - Base Conversion]
