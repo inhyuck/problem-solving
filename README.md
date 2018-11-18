@@ -183,7 +183,7 @@
   - Baekjoon [11005 - 진법 변환 2]
   - Baekjoon [2745 - 진법 변환]
   - Baekjoon [1373 - 2진수 8진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1373.java)
-  - Baekjoon [1212 - 8진수 2진수]
+  - Baekjoon [1212 - 8진수 2진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1212.java)
   - Baekjoon [2089 - -2진수]
   - Baekjoon [11576 - Base Conversion]
   - Baekjoon [1978 - 소수 찾기]
