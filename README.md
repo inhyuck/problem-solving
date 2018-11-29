@@ -258,6 +258,7 @@
 
 #### [**Brute Force**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/brute_force)
   - Baekjoon [1065 - 한수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q1065.java)
+  - Baekjoon [1977 - 완전제곱수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q1977.java)
   - Baekjoon [2309 - 일곱 난쟁이](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q2309.java)
   - Baekjoon [7568 - 덩치](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q7568.java)
   - Baekjoon [1038 - 감소하는 수] => 재도전 해야함
