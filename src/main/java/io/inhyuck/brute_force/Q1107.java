@@ -1,11 +1,12 @@
 /**
- * Date: 28/11/2018
+ * Date: 1/12/2018
  * Author: inhyuck | https://github.com/inhyuck
  * Solution URL: https://github.com/inhyuck/problem-solving
  * Title: 리모컨
  * description: 0-9 까지 숫자와 +,- 버튼 존재. 고장난 버튼과 원하는 채널이 주어졌을 때, 가장 짧게 버튼 눌러서 이동
  * Solution Key: Brute Force
  * Problem URL: https://www.acmicpc.net/problem/1107
+ * Test Code URL: htpps://github.com/inhyuck/algorithm/blob/master/src/test/java/io/inhyuck/pakageName/wTest.java
  */
 
 package io.inhyuck.brute_force;
@@ -24,7 +25,12 @@ public class Q1107 {
         for (int i = 0; i < m; i++) {
             availableButtons.remove(Integer.valueOf(scanner.nextInt()));
         }
-//        System.out.printf("n = %d, m = %d, available buttons = %s", n, m, availableButtons.toString()); Input Log
+//        System.out.printf("n = %d, m = %d, available buttons = %s\n", n, m, availableButtons.toString()); //Input Log
+
+        if (m == 10) {
+            System.out.println(Math.abs(n - 100));
+            return;
+        }
 
         //숫자버튼만으로 이동했을 때 가장 가까운 숫자
         int proximateNumber = findProximateNumber(n, availableButtons);
@@ -33,7 +39,7 @@ public class Q1107 {
         System.out.println("proximateNumber : " + proximateNumber);
         System.out.println("minCount : " + minCount);
 
-        System.out.println(Math.min(minCount, n - 100));
+        System.out.println(Math.min(minCount, Math.abs(n - 100)));
     }
 
     private static int findProximateNumber(int n, List<Integer> availableButtons) {
@@ -49,7 +55,12 @@ public class Q1107 {
             int restNumber = Integer.parseInt(String.valueOf(n).substring(i));
             int upNumber = computeUpNumber(number, availableButtons, targetNumber.length() - i); //target number보다 위로 큰 가까운 숫자
             int downNumber = computeDownNumber(number, availableButtons, targetNumber.length() - i); //target number 보다 아래로 작은 가까운 숫자
-            if (upNumber - restNumber > restNumber - downNumber) {
+
+            System.out.println("upNumber = " + upNumber);
+            System.out.println("downNumber = " + downNumber);
+            System.out.println("restNumber = " + restNumber);
+
+            if (downNumber == -1 || (upNumber != -1 && (upNumber - restNumber < restNumber - downNumber))) {
                 proximateNumber.append(upNumber);
                 break;
             }
@@ -71,12 +82,15 @@ public class Q1107 {
         }
 
         StringBuilder result = new StringBuilder();
+        int firstNumber = availableButtons.get(0);
+        if (upNumber == -1) {
+            return -1;
+        }
         result.append(upNumber);
         for (int i = 0; i < size - 1; i++) {
-            result.append(availableButtons.get(0));
+            result.append(firstNumber);
         }
 
-        System.out.println("upNumber = " + result.toString());
         return Integer.parseInt(result.toString());
     }
 
@@ -91,12 +105,15 @@ public class Q1107 {
         }
 
         StringBuilder result = new StringBuilder();
+        int lastNumber = availableButtons.get(availableButtons.size() - 1);
+        if (downNumber == -1) {
+            return -1;
+        }
         result.append(downNumber);
         for (int i = 0; i < size - 1; i++) {
-            result.append(availableButtons.get(availableButtons.size() - 1));
+            result.append(lastNumber);
         }
 
-        System.out.println("downNumber = " + result.toString());
         return Integer.parseInt(result.toString());
     }
 }
