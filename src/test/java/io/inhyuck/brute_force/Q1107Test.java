@@ -19,13 +19,13 @@ import static org.junit.Assert.assertThat;
 public class Q1107Test {
     @Test
     public void isPossibleChannelTest() {
-        assertThat(Q1107_1.isPossibleChannel(123, new int[]{2}), is(false));
-        assertThat(Q1107_1.isPossibleChannel(123, new int[]{4, 5, 6}), is(true));
-        assertThat(Q1107_1.isPossibleChannel(123, new int[]{0}), is(true));
-        assertThat(Q1107_1.isPossibleChannel(123, new int[]{3, 4}), is(false));
-        assertThat(Q1107_1.isPossibleChannel(123, new int[]{2, 5}), is(false));
-        assertThat(Q1107_1.isPossibleChannel(0, new int[]{0, 1}), is(false));
-        assertThat(Q1107_1.isPossibleChannel(90999, new int[]{0, 1}), is(false));
+        assertThat(Q1107.isAvailableMoveChannel(123, new int[]{2}), is(false));
+        assertThat(Q1107.isAvailableMoveChannel(123, new int[]{4, 5, 6}), is(true));
+        assertThat(Q1107.isAvailableMoveChannel(123, new int[]{0}), is(true));
+        assertThat(Q1107.isAvailableMoveChannel(123, new int[]{3, 4}), is(false));
+        assertThat(Q1107.isAvailableMoveChannel(123, new int[]{2, 5}), is(false));
+        assertThat(Q1107.isAvailableMoveChannel(0, new int[]{0, 1}), is(false));
+        assertThat(Q1107.isAvailableMoveChannel(90999, new int[]{0, 1}), is(false));
     }
 
 }
