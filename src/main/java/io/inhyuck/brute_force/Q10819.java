@@ -5,7 +5,7 @@
  * Title: 차이를 최대로
  * description: 배열에 들어있는 정수의 순서를 적절히 바꿔서 다음 식의 최댓값을 구하는 프로그램을 작성하시오.
  * |A[0] - A[1]| + |A[1] - A[2]| + ... + |A[N-2] - A[N-1]|
- * Solution Key: brute force
+ * Solution Key: brute force, 순열 다 해보기
  * Problem URL: https://www.acmicpc.net/problem/10819
  */
 

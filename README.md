@@ -271,8 +271,8 @@
   - Baekjoon [1476 - 날짜 계산 | 그냥 다 해보기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q1476.java)
   - Baekjoon [1107 - 리모컨 | 그냥 다 해보기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q1107.java)
   - Baekjoon [9095 - 1, 2, 3 더하기 | N중 for문](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q9095.java)
-  - Baekjoon [10819 - 차이를 최대로](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q10819.java)
-  - Baekjoon [10971 - 외판원 순회 2]
+  - Baekjoon [10819 - 차이를 최대로 | 순열 다 해보기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q10819.java)
+  - Baekjoon [10971 - 외판원 순회 2 | 순열 다 해보기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/brute_force/Q10971.java)
   - Baekjoon [6603 - 로또]
   - Baekjoon [1697 - 숨바꼭질]
   - Baekjoon [1963 - 소수 경로]
