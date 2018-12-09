@@ -61,8 +61,11 @@ public class Q10971 {
         return sum + lastDistance;
     }
 
+    // refactoring : numbers의 0번째 원소는 고정되어 있음
+    // => {0, 1, 2} {1, 2, 0}, {2, 0, 1} 세개의 순열 모두 동일한 경로이기 때문
+    // 불필요한 시간소모를 방지하기 위해 한개의 원소 고정
     private static boolean nextPermutation(int[] numbers) {
-        for (int i = numbers.length - 1; i > 0; i--) {
+        for (int i = numbers.length - 1; i > 1; i--) {
             if (numbers[i] > numbers[i - 1]) {
                 swap(numbers, i - 1, getSwapNumber(numbers, i, numbers[i - 1]));
                 reverseArray(numbers, i, numbers.length - 1);
