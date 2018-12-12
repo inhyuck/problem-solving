@@ -1,7 +1,7 @@
 /**
- * Date: 2018. 9. 28.
+ * Date: 2018. 12. 12.
  * Author: inhyuck | https://github.com/inhyuck
- * Solution URL: https://github.com/inhyuck/algorithm
+ * Solution URL: https://github.com/inhyuck/problem-solving
  * Title: 롤러코스터
  * description: 링크 참조
  * Problem URL: https://www.acmicpc.net/problem/2873
@@ -9,27 +9,36 @@
 
 package io.inhyuck.greedy;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.*;
 
 public class Q2873 {
-    static int r, c;
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        r = scanner.nextInt();
-        c = scanner.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer tokenizer = new StringTokenizer(reader.readLine());
+        int r = Integer.parseInt(tokenizer.nextToken());
+        int c = Integer.parseInt(tokenizer.nextToken());
         int[][] lands = new int[r][c];
         for (int i = 0; i < r; i++) {
+            tokenizer = new StringTokenizer(reader.readLine());
             for (int j = 0; j < c; j++) {
-                lands[i][j] = scanner.nextInt();
+                lands[i][j] = Integer.parseInt(tokenizer.nextToken());
             }
         }
+//        Arrays.stream(lands).forEach(x -> System.out.println(Arrays.toString(x))); //input Log
+
         if (r % 2 == 0 && c % 2 == 0) { //r짝수 x c짝수
             Point minPoint = findMinPoint(r, c, lands);
-            List<String> routeFromStart = makeNarrowFromStartPoint(minPoint);
-            List<String> routeFromEnd = makeNarrowFromEndPoint(minPoint);
+            List<String> routeFromStart = makeNarrowFromStartPoint(minPoint, c);
+            List<String> routeFromEnd = makeNarrowFromEndPoint(minPoint, r, c);
             routeFromStart.addAll(routeFromEnd);
-            routeFromStart.stream().forEach(System.out::print);
+
+            StringBuilder builder = new StringBuilder();
+            routeFromStart.stream().forEach(x -> builder.append(x));
+            System.out.println(builder.toString());
             return;
         }
         if (r % 2 == 1) { //r홀수 x c짝수, r홀수 x c홀수
@@ -42,10 +51,9 @@ public class Q2873 {
                 }
                 route.add(temp);
             }
-            System.out.println(route);
+            System.out.println(route.toString());
             return;
         }
-
         //r짝수 x c홀수
         StringJoiner route = new StringJoiner("R");
         StringBuilder temp = new StringBuilder();
@@ -56,25 +64,7 @@ public class Q2873 {
             }
             route.add(temp);
         }
-        System.out.println(route);
-    }
-
-    static class Point {
-        int x;
-        int y;
-
-        public Point(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
-
-        @Override
-        public String toString() {
-            return "Point{" +
-                    "x=" + x +
-                    ", y=" + y +
-                    '}';
-        }
+        System.out.println(route.toString());
     }
 
     //제외할 칸 탐색
@@ -98,8 +88,7 @@ public class Q2873 {
         }
         return minPoint;
     }
-
-    private static List<String> makeNarrowFromStartPoint(Point minPoint) {
+    private static List<String> makeNarrowFromStartPoint(Point minPoint, int c) {
         List<String> routeFromStart = new ArrayList<>();
         Point startPoint = new Point(0, 0);
         while (startPoint.x <= minPoint.x - 2) {
@@ -131,7 +120,7 @@ public class Q2873 {
         return routeFromStart;
     }
 
-    private static List<String> makeNarrowFromEndPoint(Point minPoint) {
+    private static List<String> makeNarrowFromEndPoint(Point minPoint, int r, int c) {
         List<String> routeFromEnd = new ArrayList<>();
         Point endPoint = new Point(r - 1, c - 1);
         while (endPoint.x >= minPoint.x + 2) {
@@ -154,5 +143,23 @@ public class Q2873 {
         }
         Collections.reverse(routeFromEnd);
         return routeFromEnd;
+    }
+
+    static class Point {
+        int x;
+        int y;
+
+        public Point(int x, int y) {
+            this.x = x;
+            this.y = y;
+        }
+
+        @Override
+        public String toString() {
+            return "Point{" +
+                    "x=" + x +
+                    ", y=" + y +
+                    '}';
+        }
     }
 }
