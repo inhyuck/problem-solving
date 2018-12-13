@@ -188,6 +188,7 @@
   - Baekjoon [1212 - 8진수 2진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1212.java)
   - Baekjoon [2089 - -2진수]
   - Baekjoon [11576 - Base Conversion]
+  - Baekjoon [2581 - 소수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q2581.java)
   - Baekjoon [1978 - 소수 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1978.java)
   - Baekjoon [1929 - 소수 구하기]
   - Baekjoon [6588 - 골드바흐의 추측]
