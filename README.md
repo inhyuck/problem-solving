@@ -58,6 +58,7 @@
   - Baekjoon [2594 - 놀이공원](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q2594.java)
   - Baekjoon [10987 - 모음의 개수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q10987.java)
   - Baekjoon [13752 - 히스토그램](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q13752.java)
+  - Baekjoon [11501 - 주식](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/basic/Q11501.java)
 
 #### [**I.O.(입/출력)**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/io)
   - Baekjoon [2557 - Hello World](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/io/Q2557.java)
