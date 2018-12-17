@@ -1,12 +1,11 @@
 /**
- * Date: 17/12/2018
+ * Date: 18/12/2018
  * Author: inhyuck | https://github.com/inhyuck
  * Solution URL: https://github.com/inhyuck/problem-solving
- * Title:
- * description:
- * Solution Key:
- * Problem URL: https://www.acmicpc.net/problem/
- * Test Code URL: htpps://github.com/inhyuck/algorithm/blob/master/src/test/java/io/inhyuck/pakageName/Q1699Test.java
+ * Title: 제곱수의 합
+ * description: 주어진 자연수 N을 제곱수들의 합으로 표현할 때에 그 항의 최소개수를 구하는 프로그램을 작성하시오.
+ * Solution Key: dp
+ * Problem URL: https://www.acmicpc.net/problem/1699
  */
 
 package io.inhyuck.dp;
@@ -18,16 +17,15 @@ public class Q1699 {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
 
-        int[] memo = new int[n + 1]; //제곱수 항의 최소 갯수 memo
+        int[] memo = new int[n + 1]; // 제곱수 항의 최소 갯수 memo
         memo[1] = 1;
-        memo[0] = 0;
+        int minCount = computeMinCount(n, memo);
 
-        int result = dp(n, memo);
-
-        System.out.println(result);
+        System.out.println(minCount);
     }
 
-    private static int dp(int n, int[] memo) {
+    // n을 제곱수의 합으로 나타낼 때 항의 최소 갯수 리턴
+    private static int computeMinCount(int n, int[] memo) {
         if (memo[n] > 0 || n == 0) {
             return memo[n];
         }
@@ -35,7 +33,7 @@ public class Q1699 {
         int number = (int)Math.sqrt(n);
         int minCount = Integer.MAX_VALUE;
         for (int i = number; i >= 1; i--) {
-            minCount = Math.min(dp(n - (number * number), memo), minCount);
+            minCount = Math.min(computeMinCount(n - (i * i), memo), minCount);
         }
 
         return memo[n] = minCount + 1;

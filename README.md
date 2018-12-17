@@ -171,7 +171,7 @@
   - Baekjoon [11054 - 가장 긴 바이토닉 부분 수열]
   - Baekjoon [1912 - 연속합]
   - Baekjoon [2579 - 계단 오르기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q2579.java)
-  - Baekjoon [1699 제곱수의 합]
+  - Baekjoon [1699 제곱수의 합](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q1699.java)
   - Baekjoon [2133 타일 채우기]
   - Baekjoon [9461 - 파도반 수열]
   - Baekjoon [2225 - 합분해]
