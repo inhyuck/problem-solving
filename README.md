@@ -183,7 +183,7 @@
   - Baekjoon [2609 - 최대공약수와 최소공배수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q2609.java)
   - Baekjoon [1934 - 최소공배수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1934.java)
   - Baekjoon [9613 - GCD 합]
-  - Baekjoon [11005 - 진법 변환 2]
+  - Baekjoon [11005 - 진법 변환 2](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q11005.java)
   - Baekjoon [2745 - 진법 변환]
   - Baekjoon [1373 - 2진수 8진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1373.java)
   - Baekjoon [1212 - 8진수 2진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1212.java)
