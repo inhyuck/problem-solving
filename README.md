@@ -184,7 +184,7 @@
   - Baekjoon [1934 - 최소공배수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1934.java)
   - Baekjoon [9613 - GCD 합]
   - Baekjoon [11005 - 진법 변환 2](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q11005.java)
-  - Baekjoon [2745 - 진법 변환]
+  - Baekjoon [2745 - 진법 변환](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q2745.java)
   - Baekjoon [1373 - 2진수 8진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1373.java)
   - Baekjoon [1212 - 8진수 2진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1212.java)
   - Baekjoon [2089 - -2진수]
@@ -285,7 +285,6 @@
   - Baekjoon [9663 - N-Queen]
   - Baekjoon [2580 - 스도쿠]
   - Baekjoon [1987 - 알파벳]
-  - Baekjoon [6603 - 로또]
   - Baekjoon [1182 - 부분집합의 합]
   
 #### [**Strings 문자열**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/strings)
