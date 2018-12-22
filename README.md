@@ -188,12 +188,12 @@
   - Baekjoon [1373 - 2진수 8진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1373.java)
   - Baekjoon [1212 - 8진수 2진수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1212.java)
   - Baekjoon [2089 - -2진수]
-  - Baekjoon [11576 - Base Conversion]
+  - Baekjoon [11576 - Base Conversion | A진법->B진법 변환](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q11576.java)
   - Baekjoon [2581 - 소수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q2581.java)
   - Baekjoon [1978 - 소수 찾기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1978.java)
   - Baekjoon [1929 - 소수 구하기]
   - Baekjoon [6588 - 골드바흐의 추측]
-  - Baekjoon [11653 - 소인수분해]
+  - Baekjoon [11653 - 소인수분해](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q11653.java)
   - Baekjoon [10872 - 팩토리얼](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q10872.java)
   - Baekjoon [1676 - 팩토리얼 0의 개수](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1676.java)
   - Baekjoon [2004 - 조합 0의 개수]
