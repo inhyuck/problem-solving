@@ -173,7 +173,7 @@
   - Baekjoon [2579 - 계단 오르기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q2579.java)
   - Baekjoon [1699 제곱수의 합](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q1699.java)
   - Baekjoon [2133 타일 채우기]
-  - Baekjoon [9461 - 파도반 수열]
+  - Baekjoon [9461 - 파도반 수열](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q9461.java)
   - Baekjoon [2225 - 합분해]
   - Baekjoon [2011 - 암호코드](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q2011.java)   
   - Baekjoon [2839 - 설탕 배달](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q2839.java)   
