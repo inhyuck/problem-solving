@@ -200,6 +200,7 @@
   - Baekjoon [2407 - 조합 | 조합, BigInteger](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q2407.java)
   - Baekjoon [2869 - 달팽이는 올라가고 싶다 | Math.ceil 올림](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q2869.java)
   - Baekjoon [5988 - 홀수일까 짝수일까](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q5988.java)
+  - Baekjoon [1009 - 분산처리](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q1009.java)
     
 #### [**Graph**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/graph)
   - Baekjoon [1260 - DFS와 BFS | 그래프 생성 및 탐색](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/graph/Q1260.java)
