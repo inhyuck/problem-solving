@@ -178,6 +178,7 @@
   - Baekjoon [2011 - 암호코드](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q2011.java)   
   - Baekjoon [2839 - 설탕 배달](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q2839.java)   
   - Baekjoon [1010 - 다리 놓기](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q1010.java)   
+  - Baekjoon [1932 - 정수 삼각형](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/dp/Q1932.java)   
 
 #### [**Math**](https://github.com/inhyuck/problem-solving/tree/master/src/main/java/io/inhyuck/math)
   - Baekjoon [10430 - 나머지](https://github.com/inhyuck/problem-solving/blob/master/src/main/java/io/inhyuck/math/Q10430.java)
